@@ -1,0 +1,15 @@
+<resources>
+    <string name="FIRMWARE_VERSION">3</string>
+    <string name="app_name">Rainbow Tower</string>
+    <string name="title_color">Color Picker</string>
+    <string name="title_analyzer">Audio Analyzer</string>
+    <string name="title_presets">Presets</string>
+    <string name="title_settings">Settings</string>
+    <string name="not_connected">You are currently not connected to your Rainbow Tower.\n\nPlease check your network connection.</string>
+    <string name="firmware_version_mismatch">The firmware version of your Rainbow Tower does not match the expected version.\n\nPlease update the firmware.</string>
+    <string name="brightness_label">Brightness</string>
+    <string name="smoothing">Smoothing</string>
+    <string name="device_settings">LightBox is using %1$d LEDs.</string>
+    <string name="rainbow_colors">Rainbow Colors</string>
+    <string name="random_colors">Random Colors</string>
+</resources>
